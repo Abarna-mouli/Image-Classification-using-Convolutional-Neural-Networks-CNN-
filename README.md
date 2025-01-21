@@ -10,7 +10,7 @@ This project uses the Cats vs. Dogs dataset from Kaggle. Since the dataset conta
 
 ### Download the Dataset:
 
-Visit the Kaggle dataset page: Cats vs. Dogs Dataset.
+Visit the Kaggle dataset page: [Cats vs. Dogs Dataset.](https://www.kaggle.com/datasets/dhirensk/cats-vs-dogs-training8000test2000/data)
 
 Download the dataset as a .zip file.
 
