@@ -22,6 +22,7 @@ Place the training_set and test_set folders in a directory within this project.
 
 ## Dependencies
 TensorFlow
+
 Keras
 ## Model Architecture
 ### Input Layer: 
@@ -46,4 +47,5 @@ The trained model is used to classify a single image of a cat or a dog. The imag
 ### bash
 #### cd Image-Classification-using-Convolutional-Neural-Networks-CNN-
 1.Ensure the dataset is placed in the correct directories (training_set and test_set).
+ 
 2.Open and run the Jupyter notebook Cat_Dog.ipynb to train the model and make predictions.
